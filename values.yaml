@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: prince30/konga
-  tag: 753c5a08-181-2626
+  repository: pantsel/konga
+  tag: next
   pullPolicy: IfNotPresent
 
 nameOverride: ""
