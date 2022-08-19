@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: cyble/konga
-  tag: 753c5a08-181-2624
+  repository: prince30/konga
+  tag: 753c5a08-181-2626
   pullPolicy: IfNotPresent
 
 nameOverride: ""
