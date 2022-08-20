@@ -3,11 +3,11 @@ entries:
   konga:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2022-08-20T10:30:58.077295+05:30"
+    created: "2022-08-20T10:31:34.565985+05:30"
     description: A Helm chart for Kubernetes
     digest: 49207617d6d4c6b40e9a292805c0bb6af340b5c693b16d7475a8ba6f7ff6507d
     name: konga
     urls:
     - https://kaustubh-cyble.github.io/konga/konga-1.0.0.tgz
     version: 1.0.0
-generated: "2022-08-20T10:30:58.076125+05:30"
+generated: "2022-08-20T10:31:34.565227+05:30"
