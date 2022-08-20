@@ -8,6 +8,6 @@
     "pipelineName": "{{.PipelineName}}",
     "releaseVersion": "{{.ReleaseVersion}}",
     "deploymentType": "{{.DeploymentType}}",
-    "app": "{{.App}}",
+    "app": "konga-new",
     "env": "{{.Env}}"
 }
